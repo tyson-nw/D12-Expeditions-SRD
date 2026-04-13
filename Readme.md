@@ -21,34 +21,34 @@ Too often as soon as a character no longer has the spotlight the player will ste
 
 # Table of Contents
 
-## [[1. Playing the Game]]
+## [[01. Playing the Game]]
 Players start here to learn the core system of the game.
 
-## [[2. Creating a Character]]
+## [[02. Creating a Character]]
 Instructions for creating characters by choosing Ancestry, Culture, Background, Archetype, choosing Stats, and equipping them.
 
-## [[3. Running the Game]]
+## [[03. Running the Game]]
 Basics of the game for Game Masters.
 
-## [[4. Running Conflicts]]
+## [[04. Running Conflicts]]
 Rules for when Characters come in conflict with their Foes.
 
-## [[5. Outside of Conflicts]]
+## [[05. Outside of Conflicts]]
 What to do when not adventuring.
 
-## [[6. Adventuring]]
+## [[06. Adventuring]]
 
 Tools for building Adventures.
 
-## [[7. Rewards]]
+## [[07. Rewards]]
 
 Rewards for Adventures.
 
-## [[8. Advancement]]
+## [[08. Advancement]]
 
 All the details players need to level their characters.
 
-## [[9. Enigmas]]
+## [[09. Enigmas]]
 
 Details on using magic.
 
