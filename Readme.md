@@ -1,4 +1,4 @@
-![[dancing-spheres-logo.svg]]
+![[dancing-spheres-logo.svg|Dancing Spheres Logo]]
 
 Welcome to the D12Expeditions BETA SRD. These rules are in flux and open to comment and playtest. If you want to playtest the rules we are developing an introductory box set of character playbooks and adventures. Join us on the [D12 Expeditions Discord ](https://discord.gg/K6rUS3f8GZ) and check out our other works in playtesting.
 
