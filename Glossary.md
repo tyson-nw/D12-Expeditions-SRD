@@ -199,7 +199,7 @@ Enigmas are the supernatural forces that shape the world. Skill in Enigmas is us
 
 ###### Expertise
 
-Expertises are additional training that a character has received. They are not tied to a specific [[Glossary#Skill]] or [[[Glossary#Stat]]. Only one Expertise can be added to a Roll if it applies to the task, adding the +2 to the roll. The creature does not need to be proficient in a skill to use an Expertise in a Roll.
+Expertises are additional training that a character has received. They are not tied to a specific [[Glossary#Skill]] or [[Glossary#Stat]]. Only one Expertise can be added to a Roll if it applies to the task, adding the +2 to the roll. The creature does not need to be proficient in a skill to use an Expertise in a Roll.
 
 ###### Exploit
 
@@ -599,7 +599,7 @@ A NPC declares their intent to attack a Character and the Character makes a Reac
 
 ###### Weapons
 
-This is a creature's prowess with weapons. If a weapon has multiple [[Glossary#Tag|Tags]] you can choose which [[[Glossary#Stat]] +[[Glossary#Skill]] combo to use. When dealing damage with a weapon roll, add the [[[Glossary#Stat]] bonus you used in the roll.
+This is a creature's prowess with weapons. If a weapon has multiple [[Glossary#Tag|Tags]] you can choose which [[Glossary#Stat]] +[[Glossary#Skill]] combo to use. When dealing damage with a weapon roll, add the [[Glossary#Stat]] bonus you used in the roll.
 
 ###### Will
 
