@@ -1,4 +1,6 @@
 
+![[D12 Expeditions CC.png]]
+
 Welcome to the D12Expeditions BETA SRD. These rules are in flux and open to comment and playtest. If you want to playtest the rules we are developing an introductory box set of character playbooks and adventures. Join us on the [D12 Expeditions Discord ](https://discord.gg/K6rUS3f8GZ) and check out our other works in playtesting.
 
 licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ![Creative Commons](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY 4.0](https://mirrors.creativecommons.org/presskit/icons/by.svg)
@@ -12,7 +14,7 @@ The goal is to create a broad system that is simple to learn and consistent in i
 
 ## Encourages teamwork
 
-From out combat design to complex rolls we want players to be collaborating at every turn. They are encouraged to use their actions to set up their allies to go above and beyond what they can do on their own.
+From our combat design to complex rolls we want players to be collaborating at every turn. They are encouraged to use their actions to set up their allies to go above and beyond what they can do on their own.
 
 ## Encourages Engagement
 
